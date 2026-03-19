@@ -2,13 +2,13 @@
 
 
 
-!\[Banner] (https://github.com/TechyGeek1/TechyGeek1/blob/main/Banner.gif)
+![Banner] (https://github.com/TechyGeek1/TechyGeek1/blob/main/Banner.gif)
 
 
 
 
 
-!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechyGeek1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechyGeek1)
 
 
 
