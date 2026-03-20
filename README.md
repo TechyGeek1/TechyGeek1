@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p style="text-align:center">
 
 [![My Skills](https://skillicons.dev/icons?i=github,powershell,windows,vscode,py,html,css,js)](https://skillicons.dev)
 
