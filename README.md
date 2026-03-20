@@ -8,7 +8,7 @@
 
 
 
-!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechyGeek1)
+!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechyGeek1\&show\_icons=true\&theme=dark)
 
 
 
